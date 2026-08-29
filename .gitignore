@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.out
+output/
+
+.vscode/
+
+thumbs.db
+.DS_Store
